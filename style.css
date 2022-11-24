@@ -1,0 +1,12 @@
+body{
+	max-width: 40rem;
+	margin-left: auto;
+	font-family: sans-serif;
+	font-size: 2rem;
+	background: #fefefe;
+}
+.block{
+	display:block!important;
+	max-width: 100%;
+	height: auto;
+}
